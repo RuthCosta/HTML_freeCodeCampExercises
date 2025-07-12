@@ -1,2 +1,2 @@
 # HTML_freeCodeCampExercises
-Exercises for freeCodeCamp Full Stack Developer Curriculum
+This repository will contain a seres of exercises in HTML for freeCodeCamp Full Stack Developer Curriculum.
